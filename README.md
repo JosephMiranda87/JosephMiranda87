@@ -11,7 +11,7 @@ proyectos y mis intereses.
 * Lugar de residencia: Guayaquil, Via Daule
 * Sitio web: [Tu sitio web]
 ## Proyectos
-* [Pagina de Eventos sostenibles para la materia de Lenguajes de programacion](https://github.com/JohnUllaguari/Grupo1__PHP)
+* [Pagina de Eventos sostenibles](https://github.com/JohnUllaguari/Grupo1__PHP)
 * [Analizador de texto para Lenguaje PHP](https://github.com/JohnUllaguari/Grupo1__PHP)
 * [Repositorios de ejemplos basicos para cada tipo de CodeSmell](https://github.com/JosephMiranda87/MalOlores)
 ## Intereses
