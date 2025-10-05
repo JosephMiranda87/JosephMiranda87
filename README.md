@@ -62,7 +62,7 @@ proyectos más relevantes y mis conocimientos en las diferentes tecnologias.
 
 ---
 
-## 📚 Tecnologías Aprendidas
+## Tecnologías Aprendidas
 
 En el transcurso del tiempo en la universidad he obtenido conocimientos en diferentes herramientas tecnologicas que me han sido de ayuda para mis proyectos:
 
@@ -110,7 +110,7 @@ En el transcurso del tiempo en la universidad he obtenido conocimientos en difer
 
 ---
 
-## 👤 Contacto
+## Contacto
 Si deseas comunicarte conmigo o explorar más de mis proyectos, aquí tienes mis datos:
 - **📧 Correo:** [josmnava@espol.edu.ec](mailto:josmnava@espol.edu.ec)
 - **💻 GitHub:** [github.com/JosephMiranda87](https://github.com/JosephMiranda87)
