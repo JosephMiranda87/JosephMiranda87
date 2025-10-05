@@ -44,7 +44,6 @@ proyectos más relevantes y mis conocimientos en las diferentes tecnologias.
 - **Tokens personalizados**: Definición de palabras clave, operadores, símbolos y estructuras propias de PHP.
 - **Parser**: Reglas gramaticales que permiten validar la sintaxis del código PHP.
 - **PHP**: Lenguaje objetivo del análisis.
-- **HTML/CSS/JavaScript**: Interfaz web para cargar y visualizar el análisis de código PHP.
 ### 📁 Repositorio
 [Enlace de GitHub](https://github.com/JohnUllaguari/Grupo1__PHP)
 
