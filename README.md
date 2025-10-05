@@ -114,3 +114,5 @@ En el transcurso del tiempo en la universidad he obtenido conocimientos en difer
 Si deseas comunicarte conmigo o explorar más de mis proyectos, aquí tienes mis datos:
 - **📧 Correo:** [josmnava@espol.edu.ec](mailto:josmnava@espol.edu.ec)
 - **💻 GitHub:** [github.com/JosephMiranda87](https://github.com/JosephMiranda87)
+
+---
