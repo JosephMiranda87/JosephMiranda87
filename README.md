@@ -7,6 +7,7 @@ proyectos más relevantes y mis conocimientos en las diferentes tecnologias.
 * [Proyectos](#proyectos-destacados)
 * [Tecnologías Aprendidas](#tecnologías-aprendidas)
 * [Contacto](#contacto)
+  
 ---
 
 ## Información personal
