@@ -5,8 +5,8 @@ proyectos más relevantes y mis conocimientos en las diferentes tecnologias.
 ## Contenido
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos-destacados)
-* [Conocimientos](#tecnologias-aprendidas)
-
+* [Tecnologías Aprendidas](#tecnologías-aprendidas)
+* [Contacto](#contacto)
 ---
 
 ## Información personal
@@ -62,7 +62,7 @@ proyectos más relevantes y mis conocimientos en las diferentes tecnologias.
 
 ---
 
-## 📚 Tecnologías, Herramientas y Frameworks Aprendidos
+## 📚 Tecnologías Aprendidas
 
 En el transcurso del tiempo en la universidad he obtenido conocimientos en diferentes herramientas tecnologicas que me han sido de ayuda para mis proyectos:
 
